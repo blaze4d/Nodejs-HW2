@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Neapolitan Pizza",
+        "prize": "4.59"
+    },
+    {
+        "name": "Chicago Pizza",
+        "prize": "4.79"
+    },
+    {
+        "name": "New York Style Pizza",
+        "prize": "5.19"
+    },
+    {
+        "name": "Sicilian Pizza",
+        "prize": "3.99"
+    },
+    {
+        "name": "Greek Pizza",
+        "prize": "5.29"
+    },
+    {
+        "name": "California Pizza",
+        "prize": "5.19"
+    },
+    {
+        "name": "Tomato Pie",
+        "prize": "3.49"
+    }
+]
